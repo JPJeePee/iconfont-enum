@@ -17,7 +17,7 @@ Step3: Config
 ```json
 {
   // your iconfont-repo address
-  "symbol_url": "//at.alicdn.com/t/font_2265779_3avp40a0lwn.js",
+  "symbol_url": "//at.alicdn.com/t/font_1373348_ghk94ooopqr.js",
   // the directory where to put your output
   "save_dir": "./",
   // exclude this array from you iconfont enum
